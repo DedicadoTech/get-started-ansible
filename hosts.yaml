@@ -5,3 +5,6 @@ all:
     127.0.0.1 #adicionar máquinas aws
     127.0.0.1 #adicionar máquinas aws
     127.0.0.1 #adicionar máquinas aws
+    webservers:
+      www.teste.com.br
+      www.teste.com.br
