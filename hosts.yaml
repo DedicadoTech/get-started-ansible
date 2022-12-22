@@ -1,0 +1,6 @@
+#/etc/ansible/hosts
+[myvirtualmachines]
+127.0.0.1 #adicionar máquinas aws
+127.0.0.1 #adicionar máquinas aws
+127.0.0.1 #adicionar máquinas aws
+127.0.0.1 #adicionar máquinas aws
